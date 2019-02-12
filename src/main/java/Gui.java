@@ -4,7 +4,7 @@ import java.awt.*;
 
 public class Gui extends JFrame implements ActionListener
 {
-    //Labels
+    //Labels CHANGE
     private JLabel heading = new JLabel("View Date & Time");
     private JLabel name = new JLabel("What is your name");
     private JLabel age = new JLabel("How old are you");
